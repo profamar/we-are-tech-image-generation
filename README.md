@@ -34,7 +34,7 @@ Ajustes Finais: fiz ajustes no prompt ou nas configurações da ferramenta de IA
 
 ## Imagem Final Gerada
 
-![Imagem Gerada](output/image_poema WE ARE TECH.png)
+![Imagem Gerada](https://github.com/profamar/we-are-tech-image-generation/blob/main/outputs/image_poema%20WE%20ARE%20TECH.png)
 
 A imagem acima foi gerada com o uso de IA Generativa, utilizando o modelo DALL-E 2, para representar visualmente o poema **"WE ARE TECH"**.
 
