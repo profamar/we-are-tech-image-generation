@@ -20,7 +20,7 @@ O poema reflete o impacto da tecnologia como força propulsora de inovação e c
 
 ---
 ## Esboço do Prompt Criativo:
-- Baseiei o prompt na essência do poema:
+- Baseei o prompt na essência do poema:
 "Crie uma imagem em estilo Pop Art image do poema WE ARE TECH: Life evolves with innovation, dreams built on transformation. Technology is a driving force, the spark where progress thrives. Life seeks solutions. Technology seeks connections. We are creators WE ARE TECH."
 
 ---
