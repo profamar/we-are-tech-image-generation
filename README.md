@@ -1,6 +1,6 @@
  # Explorando os Recursos de IA Generativa com Copilot ✨
 
-Este projeto foi criado como parte do desafio da DIO para explorar os recursos de IA generativa com foco no poema **"WE ARE TECH"**. Usamos IA generativa para transformar o poema em uma imagem cativante que representa a essência da inovação e transformação tecnológica.
+Este projeto foi criado como parte do Desafio de projeto do bootcamp Microsoft Copilot AI da DIO para explorar os recursos de IA generativa com foco no poema "WE ARE TECH". Usamos IA generativa para transformar o poema em uma imagem cativante que representa a essência da inovação e transformação tecnológica.
 
 ---
 ## 📜 **Sobre o Poema**
